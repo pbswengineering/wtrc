@@ -1,0 +1,7 @@
+*.o
+*~
+/src/wtrc
+/src/wtrc.exe
+*.swp
+*.orig
+/doc/api/
